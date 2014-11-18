@@ -1,0 +1,5 @@
+; $Id;
+name = SIA Google Search
+description = Custom functions for SIA GSA.
+core = 7.x
+package = SIA
